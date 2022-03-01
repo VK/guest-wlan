@@ -1,0 +1,12 @@
+{
+    "wlan": {
+        "ssid": "???",
+        "password": "???"
+    },
+    "fritz": {
+        "user": "automation",
+        "password": "???",
+        "IP": "192.168.179.1",
+        "ssid": "Gast"
+    }
+}
